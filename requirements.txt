@@ -1,0 +1,10 @@
+langchain
+langchain-community
+langchain-openai
+faiss-cpu
+chainlit
+pymupdf
+requests
+python-dotenv
+pillow
+openai 
